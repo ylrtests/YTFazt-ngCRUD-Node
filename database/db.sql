@@ -1,4 +1,4 @@
-CREATE DATABASE ng_game_db;
+CREATE DATABASE ng_games_db;
 USE ng_games_db;
 
 CREATE TABLE games(
